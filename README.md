@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EivorTheDeveloper
+- 👋 Hi, I’m @uxvor
 - 👀 I’m interested in java development and coding.
 - 🌱 I’m currently learning data structure.
-- 📫 Discord: Eivor#8707
+- 📫 Discord: uxvor#8707
