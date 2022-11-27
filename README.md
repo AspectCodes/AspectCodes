@@ -3,8 +3,6 @@
 I'm Aspect!
 
 I’m currently learning Web Designing and MySQL!
-<img src="https://discord.c99.nl/widget/theme-4/1001828300034936903.png"/>
-
 *I mostly code in school projects but I do occasionally work on private projects.*
 
 ### My GitHub Statistics
