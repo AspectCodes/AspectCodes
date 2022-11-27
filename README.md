@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Aspect</a></h2>
-<img src="https://discord.c99.nl/widget/theme-5/1001828300034936903.png"/>
+<img src="https://discord.c99.nl/widget/theme-4/1001828300034936903.png"/>
 <p>I'm currently a beginner level java developer.</p><img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
