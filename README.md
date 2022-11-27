@@ -1,10 +1,15 @@
-<h2>Hey 👋, I'm Aspect</a></h2>
-<img src="https://discord.c99.nl/widget/theme-4/1001828300034936903.png"/>
-<p>I'm currently a beginner level java developer.</p><img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="25" height="25" />
-</p>
+### Hello! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=AspectCodes&show_icons=true&count_private=true" alt="stats" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=AspectCodes.AspectCodes" alt="visitors"></p>
+I'm Aspect!
+
+I’m currently learning Web Designing and MySQL!
+<img src="https://discord.c99.nl/widget/theme-4/1001828300034936903.png"/>
+
+*I mostly code in school projects but I do occasionally work on private projects.*
+
+### My GitHub Statistics
+<details>
+   <summary>Click</summary>
+   <img align="Left" alt="AspectCodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AspectCodes&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectCodes&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+</details>
