@@ -3,6 +3,7 @@
 I'm Aspect!
 
 I’m currently learning Web Designing and MySQL!
+
 *I mostly code in school projects but I do occasionally work on private projects.*
 
 ### My GitHub Statistics
