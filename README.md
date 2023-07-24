@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Frontend Development and MySQL!
 - 🔭  I do most of my project using java
-- 📫 If you want to contact me, you can add me on discord -> Aspect#3947
+- 📫 If you want to contact me, you can add me on discord -> lwfethecooler
 
 ### My GitHub Statistics
 <details>
